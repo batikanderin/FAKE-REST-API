@@ -116,7 +116,15 @@
       "gender": "Male",
       "ip_address": "138.83.66.249",
       "roleId": 2
-    }
+    },{
+        "id": 15,
+        "first_name": "Kasper",
+        "last_name": "Pirot",
+        "email": "kpirot9@spotify.com",
+        "gender": "Male",
+        "ip_address": "138.83.66.249",
+        "roleId": 2
+      }
   ],
   "roles": [
     {
