@@ -1,0 +1,135 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "first_name": "Leonora",
+      "last_name": "Saltern",
+      "email": "lsaltern1@epa.gov",
+      "gender": "Female",
+      "ip_address": "83.125.161.22",
+      "roleId": 2
+    },
+    {
+      "id": 3,
+      "first_name": "Josselyn",
+      "last_name": "Gillhespy",
+      "email": "jgillhespy2@jiathis.com",
+      "gender": "Male",
+      "ip_address": "129.127.41.242",
+      "roleId": 2
+    },
+    {
+      "id": 4,
+      "first_name": "Fay",
+      "last_name": "McAuliffe",
+      "email": "fmcauliffe3@godaddy.com",
+      "gender": "Female",
+      "ip_address": "235.110.202.73",
+      "roleId": 2
+    },
+    {
+      "id": 5,
+      "first_name": "Nicolette",
+      "last_name": "Willbraham",
+      "email": "nwillbraham4@utexas.edu",
+      "gender": "Male",
+      "ip_address": "240.129.71.114",
+      "roleId": 1
+    },
+    {
+      "id": 6,
+      "first_name": "Rosetta",
+      "last_name": "Stelljes",
+      "email": "rstelljes5@yolasite.com",
+      "gender": "Male",
+      "ip_address": "156.158.129.126",
+      "roleId": 1
+    },
+    {
+      "id": 7,
+      "first_name": "Freddy",
+      "last_name": "Windross",
+      "email": "fwindross6@mit.edu",
+      "gender": "Male",
+      "ip_address": "26.0.114.81",
+      "roleId": 3
+    },
+    {
+      "id": 8,
+      "first_name": "Forrest",
+      "last_name": "Elphinstone",
+      "email": "felphinstone7@gizmodo.com",
+      "gender": "Female",
+      "ip_address": "223.107.201.113",
+      "roleId": 3
+    },
+    {
+      "id": 9,
+      "first_name": "Pinchas",
+      "last_name": "Castellone",
+      "email": "pcastellone8@icio.us",
+      "gender": "Female",
+      "ip_address": "211.17.241.120",
+      "roleId": 2
+    },
+    {
+      "id": 10,
+      "first_name": "Kasper",
+      "last_name": "TESTOOOO",
+      "email": "kpirot9@spotify.com",
+      "gender": "Male",
+      "ip_address": "138.83.66.249",
+      "roleId": 3
+    },
+    {
+      "id": 11,
+      "first_name": "Kasper",
+      "last_name": "Pirot",
+      "email": "kpirot9@spotify.com",
+      "gender": "Male",
+      "ip_address": "138.83.66.249",
+      "roleId": 2
+    },
+    {
+      "id": 12,
+      "first_name": "Kasper",
+      "last_name": "Pirot",
+      "email": "kpirot9@spotify.com",
+      "gender": "Male",
+      "ip_address": "138.83.66.249",
+      "roleId": 2
+    },
+    {
+      "id": 13,
+      "first_name": "Kasper",
+      "last_name": "Pirot",
+      "email": "kpirot9@spotify.com",
+      "gender": "Male",
+      "ip_address": "138.83.66.249",
+      "roleId": 2
+    },
+    {
+      "id": 14,
+      "first_name": "Kasper",
+      "last_name": "Pirot",
+      "email": "kpirot9@spotify.com",
+      "gender": "Male",
+      "ip_address": "138.83.66.249",
+      "roleId": 2
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "name": "Manager"
+    },
+    {
+      "id": 2,
+      "name": "Engineer"
+    },
+    {
+      "id": 3,
+      "name": "Intern"
+    }
+  ]
+}
